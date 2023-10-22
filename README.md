@@ -28,7 +28,8 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+)
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:heqins@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-heqins@hotmail.com-blue?style=flat-square&logo=gmail"></a>
