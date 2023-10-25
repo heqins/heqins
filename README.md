@@ -13,7 +13,7 @@
      
 <strong>Hi, I am heqins!👋 </strong>
 
-<strong>A full stack developer. Right now, my main interest is big-data and auto-autonmous driving technology.</strong>
+<strong>A backend developer. Right now, my main interest is big-data and auto-autonmous driving technology.</strong>
 
 </pre> 
 
